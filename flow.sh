@@ -4,7 +4,7 @@
 git add --all
 
 # commit changes
-git commit -m "changed flow.sh"
+git commit -m "$*"
 
 # push changes
 git push origin main
